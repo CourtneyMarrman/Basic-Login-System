@@ -31,4 +31,4 @@ This project was created to demonstrate backend web development skills and to se
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/CourtneyMarrman/Login-system.git
+git clone https://github.com/CourtneyMarrman/Basic-Login-System.git
